@@ -1,6 +1,6 @@
-# 🌟 **Introducing HamOS!** 🌟
+# 🌟 **Introducing HamOS!** 🌟V0.1
 
-## 🔥 **Revolutionary Smart Gadget**
+## 🔥 **Revolutionary Operating System**
 **HamOS** is the **future** of developing, gaming, and ______. Built to **escape from distractions**, it delivers cutting-edge technology in a sleek, modern package.
 
 ---
@@ -19,6 +19,7 @@
 * clear - Clear console\n"
 * hamfetch - Display HamOS ASCII
 * kill - Exit HamOS
+And more!
 
 ---
 
