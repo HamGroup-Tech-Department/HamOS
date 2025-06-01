@@ -1,4 +1,4 @@
-# 🌟 **Introducing HamOS!** 🌟V0.1
+# 🌟 **Introducing HamOS!** 🌟V0.2
 
 ## 🔥 **Revolutionary Operating System**
 **HamOS** is the **future** of developing, gaming, and ______. Built to **escape from distractions**, it delivers cutting-edge technology in a sleek, modern package.
@@ -6,20 +6,24 @@
 ---
 
 ## ⚡ **Commands:**
-* run [file] - Run an executable file
-* newd [folder] - Create a folder
-* del [file] - Delete a file
-* show - List all files\n"
-* move [source] [destination] - Move/Rename
-* copy [source] [destination] - Copy file
-* newf [file] - Create an empty file
-* sysinfo - Display system info
-* tree - Display folder structure
-* gotod [folder] - Change directory
-* clear - Clear console\n"
-* hamfetch - Display HamOS ASCII
-* kill - Exit HamOS
+*  del <file>  - Delete a file.
+*  kill        - Exit.
+*  tree        - Show directory structure.
+*  hamfetch    - Display system info.
+*  new <file>  - Create a file.
+*  rte <file> <line> <text> - Edit a file.
+*  run <file>  - Execute a program.
+*  print <file> - Read a file.
+*  rnme <old> <new> - Rename a file.
+*  clr, done   - Clear console.
+*  help        - Show help.
 And more!
+
+---
+
+## 🤔 **Whats New?**
+* Added a new Icon
+* Reworked the commands
 
 ---
 
