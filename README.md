@@ -6,6 +6,7 @@
 ---
 
 ## ⚡ **Commands:**
+```
 *  del <file>  - Delete a file.
 *  kill        - Exit.
 *  tree        - Show directory structure.
@@ -15,8 +16,9 @@
 *  run <file>  - Execute a program.
 *  print <file> - Read a file.
 *  rnme <old> <new> - Rename a file.
-*  clr, done   - Clear console.
+*  clr - Clear console.
 *  help        - Show help.
+```
 And more!
 
 ---
